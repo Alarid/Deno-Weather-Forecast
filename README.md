@@ -2,6 +2,8 @@
 
 Simple terminal app in Deno to get weather forecast for a city.
 
+![screenshot](./images/screenshot.png)
+
 ## Prerequisite
 Install Deno
 ```sh
